@@ -72,7 +72,7 @@ List NFTs: Users can view a list of all NFTs along with their associated metadat
 
 Total Supply: Users can determine the total number of NFTs created.
 
-than compile and run this code will be executed.
+After writing the code, it will be executed and run, producing the expected output.
 
 
 
