@@ -79,7 +79,7 @@ than compile and run this code will be executed.
 
 
 
-## Authors
+## Author
 
 - ANKITA
   ankita756900@gmail.com
