@@ -1,4 +1,4 @@
-# MyToken Smart Contract
+# NFT Metadata Collector
 
 This is a simple JavaScript project designed to mint NFTs (Non-Fungible Tokens), store their metadata, list all the minted NFTs, and get the total supply of NFTs created.
 
